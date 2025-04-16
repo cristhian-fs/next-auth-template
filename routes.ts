@@ -1,10 +1,14 @@
 export const PUBLIC_ROUTES = [
-  "/"
+  "/",
+  "/auth/new-verification"
 ]
 
 export const AUTH_ROUTES = [
   "/auth/login",
-  "/auth/register"
+  "/auth/register",
+  "/auth/error",
+  "/auth/reset",
+  "/auth/new-password"
 ]
 
 export const API_ROUTES_PREFIX = "/api/auth"
