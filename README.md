@@ -62,7 +62,9 @@ Este projeto é uma implementação avançada de autenticação utilizando [Next
 
 ## 📸 Preview
 
-[Adicione aqui screenshots ou GIFs da interface se quiser.]
+![Preview da Login Page](./assets/screenshot-login.png)
+![Preview da página de configurações](./assets/screenshot-auth-settings-page.png)
+![Preview da página de informações do usuário usando server actions para obter as infos](./assets/screenshot-server-component.png)
 
 ---
 
