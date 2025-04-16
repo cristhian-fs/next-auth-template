@@ -73,7 +73,7 @@ Este projeto é uma implementação avançada de autenticação utilizando [Next
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git 
+git clone https://github.com/cristhian-fs/next-auth-template
 cd next-auth-template
 ```
 
